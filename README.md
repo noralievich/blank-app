@@ -1,4 +1,4 @@
-{
+
   "screen": "WelcomeScreen",
   "components": [
     {
@@ -158,4 +158,4 @@
     },
     "highContrast": true
   }
-}
+
